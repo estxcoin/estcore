@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=Estx Core
+Comment=Connect to the Estx P2P Network
+Exec=estx-qt %u
+Terminal=false
+Type=Application
+Icon=estx128
+MimeType=x-scheme-handler/estx;
+Categories=Network;
+StartupWMClass=Estx-qt
+Name[en_US]=estx-qt

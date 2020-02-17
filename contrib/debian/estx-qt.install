@@ -1,0 +1,6 @@
+usr/local/bin/estx-qt usr/bin
+share/pixmaps/estx32.xpm usr/share/pixmaps
+share/pixmaps/estx16.xpm usr/share/pixmaps
+share/pixmaps/estx128.png usr/share/pixmaps
+debian/estx-qt.desktop usr/share/applications
+debian/estx-qt.protocol usr/share/kde4/services/
